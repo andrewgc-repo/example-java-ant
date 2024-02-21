@@ -1,5 +1,5 @@
 # [:] Example Ant Project
-An example ant project to demonstrate [srcclr](https://www.sourceclear.com) scans.
+An example ant project to demonstrate [srcclr](https://www.sourceclear.com) scans
 
 ## Try me!
 
